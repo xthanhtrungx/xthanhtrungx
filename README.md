@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm Nguyen Thanh Trung 😊
+### Learn Information of Technology at Hue Industrial College
 
 <!--
 **xthanhtrungx/xthanhtrungx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![120901668-8bd6b500-c666-11eb-905d-044bb440bc18](https://user-images.githubusercontent.com/97030383/147933173-b9642f4f-1cb2-4184-a2d0-f5b9bec730ef.gif)
